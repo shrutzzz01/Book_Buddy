@@ -54,3 +54,30 @@ javac model/*.java repository/*.java service/*.java ui/*.java Main.java
 8. Exit
 ------------------
 Enter your choice:
+
+
+---
+
+## 💡 Technologies Used
+
+- Java
+- OOP (Object-Oriented Programming)
+- SOLID Principles
+- CLI (Command Line Interface)
+
+---
+
+## 🧠 Learnings
+
+- How to design layered applications (UI → Service → Repository → Model)
+- Applied SOLID design principles in a real-world use case
+- Practiced Java collections, conditionals, loops, and scanner input
+- Prepared base code for a future Spring Boot web version
+
+---
+
+## 📌 Future Enhancements
+
+- Convert to a Spring Boot REST API
+- Add file/database storage
+- Create a web frontend using HTML/Thymeleaf or React
