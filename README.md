@@ -41,7 +41,8 @@ BookBuddy/
 javac model/*.java repository/*.java service/*.java ui/*.java Main.java
 ```
 
-##SAMPLE OUTPUT
+## SAMPLE OUTPUT
+---
 ....BOOK BUDDY....
 1. Add a Book
 2. View All Books
